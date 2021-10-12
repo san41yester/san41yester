@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @san41yester
-- 👀 I’m interested in Solidity 
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
